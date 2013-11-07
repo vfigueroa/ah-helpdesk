@@ -777,4 +777,7 @@ function get_wpbs_theme_options(){
       }
 } // end get_wpbs_theme_options function
 
+// Custom Code For JCAH
+require_once('custom-code/wp-document-revision/misc-functions.php');   // custom functions (don't remove)
+
 ?>
